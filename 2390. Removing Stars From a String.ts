@@ -9,10 +9,5 @@ function removeStars(s: string): string {
         }
     }
 
-    let ans = "";
-    while(stringArray.length != 0){
-        ans += stringArray.shift();
-    }
-
-    return ans;
+    return stringArray.join("");
 };
