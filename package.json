@@ -1,0 +1,14 @@
+{
+  "name": "leetcode_ts",
+  "version": "1.0.0",
+  "description": "leetcode practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Tommy Huang",
+  "license": "ISC"
+}
